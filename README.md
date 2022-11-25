@@ -7,3 +7,6 @@ En qualité de développeur chez Dev4U, une entreprise de services du numérique
 2. Les user stories avec critère(s) d’acceptation pour chacune des fonctionnalités, partagées dans un format standard (PDF, DOCX, XLSX).
 3. Les maquettes du site avec un design simple et au moins une maquette par page (Figma ou Sketch peuvent être utilisés, il faudra expliquer la navigation entre les pages pendant la réunion).
 4. Un Kanban découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement. Le découpage est démarré dans un kanban sur Notion, il faut finir de compléter la colonne ”ANALYZE” sur le même modèle. Notion, Trello ou GitHub peuvent être utilisés pour cela.
+
+
+AL
