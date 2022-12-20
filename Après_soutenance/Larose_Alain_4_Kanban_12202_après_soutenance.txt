@@ -1,0 +1,8 @@
+dépot GitHub contenant le Kanban du projet
+
+https://github.com/al-dev93/P10LEHO-al-2211.git
+
+Le numéro de la user storie est ajouté dans le ticket Kanban
+
+toutes les pièces du projet sont stockées dans le dépôt, les user stories sont en plus contenues dans le wiki du dépôt
+ 
